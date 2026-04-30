@@ -11,7 +11,6 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 Develop a modern data warehouse using SQL Server to consolidate Sales data, enabling analytical reporting and informed decision-making.
 
----
 
 ## Specifications
 
